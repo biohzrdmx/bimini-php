@@ -1,0 +1,9 @@
+[
+    {
+        "host": "default._bimi.example.net",
+        "class": "IN",
+        "ttl": 200,
+        "type": "MX",
+        "target": "mail.example.net"
+    }
+]

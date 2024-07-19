@@ -1,0 +1,13 @@
+[
+    {
+        "host": "default._bimi.example.com",
+        "class": "IN",
+        "ttl": 200,
+        "type": "TXT",
+        "txt": "v=BIMI1; l=https://example.com/bimi_logo.svg; a=https://example.com/bimi_vmc.pem",
+        "entries":
+        [
+            "v=BIMI1; l=https://example.com/bimi_logo.svg; a=https://example.com/bimi_vmc.pem"
+        ]
+    }
+]
